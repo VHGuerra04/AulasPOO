@@ -1,0 +1,16 @@
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\ContaBancaria.Form1.resources
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\ContaBancaria.csproj.GenerateResource.cache
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\ContaBancaria.AssemblyInfo.cs
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\vg0112203\Documents\POO\ContaBancaria\bin\Debug\net8.0-windows\ContaBancaria.exe
+C:\Users\vg0112203\Documents\POO\ContaBancaria\bin\Debug\net8.0-windows\ContaBancaria.deps.json
+C:\Users\vg0112203\Documents\POO\ContaBancaria\bin\Debug\net8.0-windows\ContaBancaria.runtimeconfig.json
+C:\Users\vg0112203\Documents\POO\ContaBancaria\bin\Debug\net8.0-windows\ContaBancaria.dll
+C:\Users\vg0112203\Documents\POO\ContaBancaria\bin\Debug\net8.0-windows\ContaBancaria.pdb
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\ContaBancaria.dll
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\refint\ContaBancaria.dll
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\ContaBancaria.pdb
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\ContaBancaria.genruntimeconfig.cache
+C:\Users\vg0112203\Documents\POO\ContaBancaria\obj\Debug\net8.0-windows\ref\ContaBancaria.dll

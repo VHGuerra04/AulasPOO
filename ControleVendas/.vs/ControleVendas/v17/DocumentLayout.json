@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|c:\\users\\vg0112203\\documents\\poo\\controlevendas\\dao\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|solutionrelative:dao\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|solutionrelative:model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\view\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|solutionrelative:view\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\view\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|solutionrelative:view\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09695595-16A7-4B37-B20B-3E5BBA586023}|ControleVendas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\dao\\ProdutoDAO.cs",
+              "RelativeDocumentMoniker": "dao\\ProdutoDAO.cs",
+              "ToolTip": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\dao\\ProdutoDAO.cs",
+              "RelativeToolTip": "dao\\ProdutoDAO.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:09:54.973Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\model\\Produto.cs",
+              "RelativeDocumentMoniker": "model\\Produto.cs",
+              "ToolTip": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\model\\Produto.cs",
+              "RelativeToolTip": "model\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:04:20.047Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:45:30.968Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmProdutos.cs",
+              "DocumentMoniker": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\view\\FrmProdutos.cs",
+              "RelativeDocumentMoniker": "view\\FrmProdutos.cs",
+              "ToolTip": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\view\\FrmProdutos.cs",
+              "RelativeToolTip": "view\\FrmProdutos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:18:13.947Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmProdutos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\view\\FrmProdutos.cs",
+              "RelativeDocumentMoniker": "view\\FrmProdutos.cs",
+              "ToolTip": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\view\\FrmProdutos.cs [Projeto]",
+              "RelativeToolTip": "view\\FrmProdutos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:47:01.534Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\vg0112203\\Documents\\POO\\ControleVendas\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAASwCkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:47:11.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

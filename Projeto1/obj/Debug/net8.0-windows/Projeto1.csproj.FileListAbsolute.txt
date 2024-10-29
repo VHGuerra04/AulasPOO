@@ -1,0 +1,16 @@
+C:\Users\vg0112203\Documents\POO\Projeto1\bin\Debug\net8.0-windows\Projeto1.exe
+C:\Users\vg0112203\Documents\POO\Projeto1\bin\Debug\net8.0-windows\Projeto1.deps.json
+C:\Users\vg0112203\Documents\POO\Projeto1\bin\Debug\net8.0-windows\Projeto1.runtimeconfig.json
+C:\Users\vg0112203\Documents\POO\Projeto1\bin\Debug\net8.0-windows\Projeto1.dll
+C:\Users\vg0112203\Documents\POO\Projeto1\bin\Debug\net8.0-windows\Projeto1.pdb
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\Projeto1.Form1.resources
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\Projeto1.csproj.GenerateResource.cache
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\Projeto1.AssemblyInfoInputs.cache
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\Projeto1.AssemblyInfo.cs
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\Projeto1.dll
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\refint\Projeto1.dll
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\Projeto1.pdb
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\Projeto1.genruntimeconfig.cache
+C:\Users\vg0112203\Documents\POO\Projeto1\obj\Debug\net8.0-windows\ref\Projeto1.dll
